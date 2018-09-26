@@ -1,0 +1,8 @@
+
+public class P18 
+{
+	{
+		System.out.println("顯示反斜線:\\");
+		System.out.println("顯示單引號:\'");
+	}
+}

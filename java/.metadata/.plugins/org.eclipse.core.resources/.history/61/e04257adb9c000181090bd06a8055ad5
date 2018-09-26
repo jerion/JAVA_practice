@@ -1,0 +1,13 @@
+
+public class P39 
+{
+	public static void main(String[] args)
+	{
+		int a = 17;
+		double pi = 3.1415926;
+		
+		System.out.println("直徑是 "+a +" 公分的圓");
+		System.out.println("其周長為 "+(a*pi)+" 公分");
+		
+	}
+}
